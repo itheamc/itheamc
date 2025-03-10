@@ -30,7 +30,6 @@
 
 ### 📌 Open Source Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itheamc&repo=mapbox_map_gl&show_owner=true&theme=dark)](https://github.com/itheamc/mapbox_map_gl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itheamc&repo=navigation-for-compose-for-desktop&show_owner=true&theme=dark)](https://github.com/itheamc/navigation-for-compose-for-desktop)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itheamc&repo=naxalibre&show_owner=true&theme=dark)](https://github.com/itheamc/naxalibre)
 
 <br>
