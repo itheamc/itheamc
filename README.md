@@ -29,8 +29,8 @@
 <br>
 
 ### 📌 Open Source Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itheamc&repo=mapbox_map_gl&show_owner=true&theme=dark)](https://github.com/itheamc/mapbox_map_gl)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itheamc&repo=naxalibre&show_owner=true&theme=dark)](https://github.com/itheamc/naxalibre)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itheamc&repo=mapbox_map_gl&show_owner=true&theme=dark)](https://github.com/itheamc/mapbox_map_gl)
 
 <br>
 
